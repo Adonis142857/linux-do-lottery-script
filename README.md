@@ -12,6 +12,11 @@ https://greasyfork.org/zh-CN/scripts/494054-linux-do-%E8%AE%BA%E5%9D%9B%E6%8A%BD
 
 ![image.png](https://s2.loli.net/2024/05/04/dW9caKIpvx8A4YC.png)
 
+## 实现功能
+* 结果不可提前预知，也就是主办方和用户都无从知晓
+* 结果可以复现，公布的抽奖结果必须能够按照既定算法复现
+* 教育成本和操作流程不能太过复杂，最好能够自动化或者通过点击实现
+
 ## 致谢
 参考自nodeseek论坛抽奖代码：https://www.nodeseek.com/post-92-1
 项目原理概述：https://drand.love/docs/overview/#how-drand-works
